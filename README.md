@@ -1,4 +1,4 @@
-# Code Refactor [Top Language badge](https://img.shields.io/github/languages/top/fkakatie/code-refactor)
+# Code Refactor ![Top Language badge](https://img.shields.io/github/languages/top/fkakatie/code-refactor)
 
 Code Refactor is a repository where I've refactored Horiseon's existing webpage to make it more accessible and semantic.
 
